@@ -18,6 +18,3 @@ The user must be able to select a session and pre-register by indicating his per
 The user can see the fill percentage of the course sessions.
 
 The user must be able to authenticate and create courses.
-
-Documentation are in French but there are screenshots of the web application inside.
-
